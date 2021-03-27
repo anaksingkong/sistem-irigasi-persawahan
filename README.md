@@ -2,9 +2,10 @@
 
 ## Membuat Prototype 
  
-<img src=“https://github.com/anaksingkong/”>
+<img src=“http://www.github.com/anaksingkong/sistem-irigasi-persawahan/prototype-fritzing.png”/>
 
 ## Menjalankan Program
+<img src=“/prototype-fritzing.png”/>
 
 Untuk menjalan program tuliskan
 
