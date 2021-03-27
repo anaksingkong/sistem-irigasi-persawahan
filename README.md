@@ -1,4 +1,13 @@
-# sistem-irigasi-persawahan
+# Sistem Irigasi Persawahan
 
-git clone code
-jalankan npm install
+## Membuat Prototype 
+ 
+<img src=“https://github.com/anaksingkong/”>
+
+## Menjalankan Program
+
+Untuk menjalan program tuliskan
+
+### `npm start`
+
+Server akan berjalan pada port 3000 ('localhost:3000')
