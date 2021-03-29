@@ -7,7 +7,7 @@ PC sudah terinstall `Python` versi 2/3 dan `MySQL`
 ## Alat yang dibutuhkan 
 |Barang|
 |------|
-|Raspberry Pi 2/3/4|
+|Raspberry Pi 3/4|
 |Mcp3008|
 |Sensor Soil Moisture|
 |Sensor Ultrasonic|
@@ -38,7 +38,7 @@ Setelah mengclone code ketikkan perintah berikut pada terminal
 
 ### `npm install`
 
-## Menjalankan sebserver
+## Menjalankan webserver
 
 Ketikkan perintah berikut pada terminal
 
